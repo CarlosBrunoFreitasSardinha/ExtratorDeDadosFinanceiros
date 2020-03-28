@@ -1,0 +1,1 @@
+[{"date":"28/ 03/2020 ","data":"Dollar : 5.1066, Euro : 5.6991, Pound Sterling : 6.3539, Argentine Peso : 0.0793, Bitcoin : 33706.618"}]
